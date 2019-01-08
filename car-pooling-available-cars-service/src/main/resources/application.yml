@@ -1,0 +1,31 @@
+#Der Port, wo die Applikation in Tomcat läuft
+server:
+  port: 8080
+
+#Die map, welche die einzelnen location und deren listen an Autos beinhalten
+
+availableCarsMap:
+  Stuttgart:
+    - AMG S 63 Cabrio
+    - AMG C 63 S
+    - AMG E 53
+    - AMG GTR
+  Istanbul:
+    - AMG G 63
+    - AMG S 65 Coupe
+    - AMG GT 63s
+  Mannheim: 
+    - AMG GTR
+    - G 500
+    - GLA 180
+  London:
+    - GLA 200
+    - GLA 250
+    - AMG E53
+  Lissabon: 
+    - AMG GTR
+    - G 500
+    - GLA 200
+    
+   
+    
