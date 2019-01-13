@@ -1,0 +1,70 @@
+server:
+  port: 8989
+ 
+carDetailsList:
+  - name: AMG S 63 Cabrio
+    co2: 263
+    enginePower: 336
+    FIN: 9753198
+    location: Stuttgart
+    basePrice: 450.91
+  - name: AMG C 63 S
+    co2: 227
+    enginePower: 375
+    FIN: 5301187
+    location: Stuttgart
+    basePrice: 290.00
+  - name: AMG E 53
+    co2: 203
+    enginePower: 320
+    FIN: 8830025
+    location: Stuttgart
+    basePrice: 310.00
+  - name: AMG G 63
+    co2: 299
+    enginePower: 430
+    FIN: 6169477
+    location: Istanbul
+    basePrice: 343.63
+  - name: AMG S 65 Coupe
+    co2: 325
+    enginePower: 463
+    FIN: 3901185
+    location: Istanbul
+    basePrice: 513.87
+  - name: AMG GT 63s
+    co2: 257
+    enginePower: 470
+    FIN: 0001337
+    location: Istanbul
+    basePrice: 581.65
+  - name: AMG GTR
+    co2: 283
+    enginePower: 430
+    FIN: 14041988
+    location: Mannheim
+    basePrice: 777.00
+  - name: G 500
+    co2: 269
+    enginePower: 310
+    FIN: 7938225
+    location: Mannheim
+    basePrice: 50.00
+  - name: GLA 180
+    co2: 158
+    enginePower: 90
+    FIN: 4833107
+    location: Mannheim
+    basePrice: 39.00
+  - name: GLA 200
+    co2: 151
+    enginePower: 115
+    FIN: 5770011
+    location: London
+    basePrice: 43.99
+  - name: GLA 250
+    co2: 166
+    enginePower: 155
+    FIN: 9014763
+    location: London
+    basePrice: 46.00
