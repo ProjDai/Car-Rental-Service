@@ -1,7 +1,6 @@
 package com.car.pooling.car.details.model;
 
-
-public class Car {	
+public class Car{	
 	
 	private String name;
 
