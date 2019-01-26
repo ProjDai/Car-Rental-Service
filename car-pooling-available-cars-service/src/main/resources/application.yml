@@ -1,6 +1,6 @@
 #Der Port, wo die Applikation in Tomcat läuft
 server:
-  port: 8080
+  port: 8181
 
 #Die map, welche die einzelnen location und deren listen an Autos beinhalten
 
