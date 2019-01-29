@@ -11,6 +11,8 @@
 	<groupId>com.car.pooling</groupId>
 	<artifactId>car-pooling-surcharge-calculator-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
 	<name>car-pooling-surcharge-calculator-service</name>
 	<description>Microservice zur Berechnung der Surcharges und  des Total Price</description>
 
@@ -32,6 +34,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>car-pooling-surcharge-calculator-service-0.0.1-SNAPSHOT</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
