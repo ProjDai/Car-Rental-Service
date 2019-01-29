@@ -1,0 +1,43 @@
+server:
+  port: 8083
+  
+car:
+  details:
+    url: http://localhost:8989/car/pooling/car/price?FIN={FIN}
+  
+#Die Zuschläge sind hier für alle Länder basierend auf die engine power in maps hinterlegt
+
+lessThan140Map:
+  Stuttgart: 5
+  London: 10
+  Istanbul: 15
+  Lissabon: 3
+  Mannheim: 5
+  
+lessThan200Map:
+  Stuttgart: 16
+  London: 19
+  Istanbul: 21
+  Lissabon: 9
+  Mannheim: 16
+  
+lessThan320Map:
+  Stuttgart: 20
+  London: 25
+  Istanbul: 29
+  Lissabon: 17
+  Mannheim: 20
+  
+lessThan400Map:
+  Stuttgart: 23
+  London: 29
+  Istanbul: 33
+  Lissabon: 24
+  Mannheim: 23
+  
+greaterThan400Map:
+  Stuttgart: 25
+  London: 33
+  Istanbul: 45
+  Lissabon: 30
+  Mannheim: 25
