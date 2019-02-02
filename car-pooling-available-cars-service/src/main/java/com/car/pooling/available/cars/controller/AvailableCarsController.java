@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.car.pooling.available.cars.config.ApplicationProperties;
 
 /**
- * Die Class "AvailableCarsController".
+ * Die Class AvailableCarsController.
  */
 @RestController
 public class AvailableCarsController {
