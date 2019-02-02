@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 import com.car.pooling.car.details.model.Car;
 
 /**
- * Die Class "ApplicationProperties".
+ * Die Class ApplicationProperties.
  */
 @Component
 @ConfigurationProperties
